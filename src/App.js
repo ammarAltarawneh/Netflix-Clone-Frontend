@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Routes>
       <Route path='/' element={<Home/>}></Route>
-      <Route path='/favlist' element={<FavList/>}> </Route>
+      <Route path='/favlist' element={<FavList/>}></Route>
     </Routes>
     </Router>
     </>
